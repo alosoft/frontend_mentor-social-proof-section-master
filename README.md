@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-social-proof-section-with-css-flexbox-and-bem-2uMp3tJdM)
+- Live Site URL: [Social Prof Section](https://alosoft.github.io/frontend_mentor-social-proof-section-master/)
 
 ## My process
 

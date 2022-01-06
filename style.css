@@ -31,11 +31,11 @@ body {
 
 .container {
     height: 80%;
-    width: 80%;
+    width: 77%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 2rem;
+    gap: 3rem;
 }
 
 .container__top {
@@ -47,20 +47,21 @@ body {
 }
 
 .container__top-text {
-    width: 30%;
+    width: 35%;
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
 
 .container__top-text__title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: var(--very-dark-magenta);
     font-weight: 700;
 }
 
 .container__top-text__description {
-    color: var(--dark-grayish-magenta)
+    color: var(--dark-grayish-magenta);
+    font-weight: 500;
 }
 
 .container__top-ratings {
